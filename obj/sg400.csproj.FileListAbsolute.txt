@@ -1,0 +1,12 @@
+C:\Projects\source\SG400\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\source\SG400\obj\Debug\RFVoltMeter.About.resources
+C:\Projects\source\SG400\obj\Debug\RFVoltMeter.MainForm.resources
+C:\Projects\source\SG400\obj\Debug\RFVoltMeter.prompt.resources
+C:\Projects\source\SG400\obj\Debug\sg400.Properties.Resources.resources
+C:\Projects\source\SG400\obj\Debug\sg400.csproj.GenerateResource.Cache
+C:\Projects\source\SG400\bin\Debug\sg400.exe
+C:\Projects\source\SG400\bin\Debug\sg400.pdb
+C:\Projects\source\SG400\obj\Debug\sg400.exe
+C:\Projects\source\SG400\obj\Debug\sg400.pdb
+C:\Projects\source\Accel\obj\Debug\sg400.exe
+C:\Projects\source\Accel\obj\Debug\sg400.pdb

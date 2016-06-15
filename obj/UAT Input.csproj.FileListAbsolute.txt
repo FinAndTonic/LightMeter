@@ -1,0 +1,10 @@
+C:\Projects\Radios\UAT\Source\bin\Debug\DAC Control.exe
+C:\Projects\Radios\UAT\Source\bin\Debug\DAC Control.pdb
+C:\Projects\Radios\UAT\Source\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Radios\UAT\Source\obj\Debug\Accelerometer.About.resources
+C:\Projects\Radios\UAT\Source\obj\Debug\Accelerometer.MainForm.resources
+C:\Projects\Radios\UAT\Source\obj\Debug\Accelerometer.prompt.resources
+C:\Projects\Radios\UAT\Source\obj\Debug\DACControl.Properties.Resources.resources
+C:\Projects\Radios\UAT\Source\obj\Debug\UAT Input.csproj.GenerateResource.Cache
+C:\Projects\Radios\UAT\Source\obj\Debug\DAC Control.exe
+C:\Projects\Radios\UAT\Source\obj\Debug\DAC Control.pdb

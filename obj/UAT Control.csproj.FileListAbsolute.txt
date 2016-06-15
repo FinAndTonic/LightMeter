@@ -1,0 +1,16 @@
+C:\Projects\Radios\UAT\Source\bin\Debug\UAT Control.exe.config
+C:\Projects\Radios\UAT\Source\bin\Debug\UAT Control.exe
+C:\Projects\Radios\UAT\Source\bin\Debug\UAT Control.pdb
+C:\Projects\Radios\UAT\Source\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Radios\UAT\Source\obj\Debug\UATControl.About.resources
+C:\Projects\Radios\UAT\Source\obj\Debug\UATControl.ManualUplinkEntry.resources
+C:\Projects\Radios\UAT\Source\obj\Debug\UATControl.MainForm.resources
+C:\Projects\Radios\UAT\Source\obj\Debug\UATControl.ManualADSBEntry.resources
+C:\Projects\Radios\UAT\Source\obj\Debug\UATControl.prompt.resources
+C:\Projects\Radios\UAT\Source\obj\Debug\UATControl.Properties.Resources.resources
+C:\Projects\Radios\UAT\Source\obj\Debug\UAT Control.csproj.GenerateResource.Cache
+C:\Projects\Radios\UAT\Source\obj\Debug\UAT Control.exe
+C:\Projects\Radios\UAT\Source\obj\Debug\UAT Control.pdb
+C:\Projects\Radios\UAT\maxim comm prog\bin\Debug\UAT Control.exe.config
+C:\Projects\Radios\UAT\maxim comm prog\obj\Debug\UAT Control.exe
+C:\Projects\Radios\UAT\maxim comm prog\obj\Debug\UAT Control.pdb

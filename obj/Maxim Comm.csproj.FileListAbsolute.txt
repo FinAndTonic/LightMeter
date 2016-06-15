@@ -1,0 +1,11 @@
+C:\Projects\Radios\UAT\maxim comm prog\bin\Debug\Maxim Test.exe.config
+C:\Projects\Radios\UAT\maxim comm prog\bin\Debug\Maxim Test.exe
+C:\Projects\Radios\UAT\maxim comm prog\bin\Debug\Maxim Test.pdb
+C:\Projects\Radios\UAT\maxim comm prog\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Radios\UAT\maxim comm prog\obj\Debug\UATControl.About.resources
+C:\Projects\Radios\UAT\maxim comm prog\obj\Debug\UATControl.MainForm.resources
+C:\Projects\Radios\UAT\maxim comm prog\obj\Debug\UATControl.prompt.resources
+C:\Projects\Radios\UAT\maxim comm prog\obj\Debug\UATControl.Properties.Resources.resources
+C:\Projects\Radios\UAT\maxim comm prog\obj\Debug\Maxim Comm.csproj.GenerateResource.Cache
+C:\Projects\Radios\UAT\maxim comm prog\obj\Debug\Maxim Test.exe
+C:\Projects\Radios\UAT\maxim comm prog\obj\Debug\Maxim Test.pdb

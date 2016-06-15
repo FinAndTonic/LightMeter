@@ -1,0 +1,144 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="UATControl.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PayloadTypeSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Payload Type</Value>
+    </Setting>
+    <Setting Name="AddressQualifierSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Address Qualifier</Value>
+    </Setting>
+    <Setting Name="AddressSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Address</Value>
+    </Setting>
+    <Setting Name="LattitudeSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Lattitude</Value>
+    </Setting>
+    <Setting Name="LongitudeSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Longitude</Value>
+    </Setting>
+    <Setting Name="AltTypeSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AltitudeType</Value>
+    </Setting>
+    <Setting Name="AltitudeSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Altitude</Value>
+    </Setting>
+    <Setting Name="NICSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NIC</Value>
+    </Setting>
+    <Setting Name="AGSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AirGroundState</Value>
+    </Setting>
+    <Setting Name="NVelocitySetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">N/S Velocity</Value>
+    </Setting>
+    <Setting Name="EVelocitySetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E/W Velocity</Value>
+    </Setting>
+    <Setting Name="VertVelocitySetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Vertical Velocity</Value>
+    </Setting>
+    <Setting Name="UTCCoupledSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="EmitterSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Emitter Category</Value>
+    </Setting>
+    <Setting Name="CallSignSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Call Sign</Value>
+    </Setting>
+    <Setting Name="PrioritySetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Emergency/ Priority</Value>
+    </Setting>
+    <Setting Name="SILSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SIL</Value>
+    </Setting>
+    <Setting Name="MSOSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Transmit MSO</Value>
+    </Setting>
+    <Setting Name="SDASetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Systen Design Assurance</Value>
+    </Setting>
+    <Setting Name="NACPSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NAC P</Value>
+    </Setting>
+    <Setting Name="NACVSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NAC V</Value>
+    </Setting>
+    <Setting Name="NICBAROSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CapabilitySetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Capability Class</Value>
+    </Setting>
+    <Setting Name="OperationModeSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Operational Modes</Value>
+    </Setting>
+    <Setting Name="CSIDSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SILSUPSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="GVASetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Geometric Vertical Accuracy</Value>
+    </Setting>
+    <Setting Name="AntennaSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="NICSUPSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SecondAltSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Secondary Altitude</Value>
+    </Setting>
+    <Setting Name="SATSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SelectedAltSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Selected Altitude</Value>
+    </Setting>
+    <Setting Name="BaroPressureSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Barometric Pressure (-800mb)</Value>
+    </Setting>
+    <Setting Name="SelHeadingSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Selected Heading</Value>
+    </Setting>
+    <Setting Name="AutopilotSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="VNAVSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="AltHoldSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ApproachSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="LNAVSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ULatSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Lattitude</Value>
+    </Setting>
+    <Setting Name="ULongSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Longitude</Value>
+    </Setting>
+    <Setting Name="UPosValidSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="UUTCSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="UAppDataSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="UTimeIDSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Time Slot ID</Value>
+    </Setting>
+    <Setting Name="USiteIDSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TIS-B Site ID</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,30 @@
+C:\Projects\source\Accel\obj\Debug\sg400.exe
+C:\Projects\source\Accel\obj\Debug\sg400.pdb
+C:\Projects\source\Accel\bin\Debug\sg400.exe
+C:\Projects\source\Accel\bin\Debug\sg400.pdb
+C:\Projects\source\Accel\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\source\Accel\obj\Debug\Accelerometer.About.resources
+C:\Projects\source\Accel\obj\Debug\Accelerometer.MainForm.resources
+C:\Projects\source\Accel\obj\Debug\Accelerometer.prompt.resources
+C:\Projects\source\Accel\obj\Debug\sg400.Properties.Resources.resources
+C:\Projects\source\Accel\obj\Debug\Accelerometer.csproj.GenerateResource.Cache
+C:\Projects\Radios\Accel\source\bin\Debug\DAC Control.exe
+C:\Projects\Radios\Accel\source\bin\Debug\DAC Control.pdb
+C:\Projects\Radios\Accel\source\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Radios\Accel\source\obj\Debug\Accelerometer.About.resources
+C:\Projects\Radios\Accel\source\obj\Debug\Accelerometer.MainForm.resources
+C:\Projects\Radios\Accel\source\obj\Debug\Accelerometer.prompt.resources
+C:\Projects\Radios\Accel\source\obj\Debug\DACControl.Properties.Resources.resources
+C:\Projects\Radios\Accel\source\obj\Debug\Accelerometer.csproj.GenerateResource.Cache
+C:\Projects\Radios\Accel\source\obj\Debug\DAC Control.exe
+C:\Projects\Radios\Accel\source\obj\Debug\DAC Control.pdb
+C:\Projects\Radios\UAT\Source\obj\Debug\DAC Control.exe
+C:\Projects\Radios\UAT\Source\obj\Debug\DAC Control.pdb
+C:\Projects\Radios\UAT\Source\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Radios\UAT\Source\obj\Debug\Accelerometer.About.resources
+C:\Projects\Radios\UAT\Source\obj\Debug\Accelerometer.MainForm.resources
+C:\Projects\Radios\UAT\Source\obj\Debug\Accelerometer.prompt.resources
+C:\Projects\Radios\UAT\Source\obj\Debug\DACControl.Properties.Resources.resources
+C:\Projects\Radios\UAT\Source\obj\Debug\Accelerometer.csproj.GenerateResource.Cache
+C:\Projects\Radios\UAT\Source\bin\Debug\DAC Control.exe
+C:\Projects\Radios\UAT\Source\bin\Debug\DAC Control.pdb
